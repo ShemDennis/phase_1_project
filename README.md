@@ -4,6 +4,18 @@ This is a repo of my phase 1 project: Aircraft Incident Analysis and Recommendat
 **Author**: Dennis Shem Limo O.  
 **Contact**: [dennis.limo@student.moringaschool.com](mailto:dennis.limo@student.moringaschool.com)
 
+
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data](#data)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [Visualizations](#visualizations)
+- [Future Work](#future-work)
+- [Contact](#contact)
+
 ## Project Overview
 
 This project analyzes historical aircraft incident data to identify trends and provide recommendations for improving aircraft safety. By examining various factors such as aircraft models, engine types, injury severity, and weather conditions, the project seeks to help fleet managers make informed decisions on aircraft selection and operations. The analysis also explores the differences between amateur-built and professional aircraft, highlighting the risks associated with both categories.
