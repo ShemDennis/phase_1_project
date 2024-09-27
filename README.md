@@ -57,8 +57,8 @@ Based on the analysis, the following recommendations are provided to improve air
 
 To help communicate the findings and recommendations effectively, the following visual resources are available:
 
-- **Pptx Presentation**: This presentation provides a summary of the analysis, key insights, and recommendations. It can be used for stakeholder briefings or educational purposes.  
-  [Download the presentation](https://github.com/ShemDennis/phase_1_project/blob/main/project%20presentation.pptx)
+- **Pdf Presentation**: This presentation provides a summary of the analysis, key insights, and recommendations. It can be used for stakeholder briefings or educational purposes.  
+  [Download the presentation](https://github.com/ShemDennis/phase_1_project/blob/main/project%20presentation.pdf)
 
 - **Tableau Dashboard**: An interactive Tableau dashboard allows users to explore the data and insights in more depth. The dashboard provides a visual representation of incident patterns, risk models, engine performance, and more.  
   [View the Tableau Dashboard](https://public.tableau.com/views/proj_17272944880330/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
