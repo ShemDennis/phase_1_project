@@ -12,19 +12,7 @@ The ultimate goal is to contribute to safer aviation practices by providing data
 
 ## Data
 
-The dataset includes key fields that represent critical aspects of aircraft incidents. Each dataset has been cleaned and prepared for analysis to ensure accurate results.
-
-- **Aircraft Models**: This dataset includes the specific models of aircraft involved in incidents, such as Cessna 152, Boeing 737, and others. Understanding which models are more prone to incidents is key to informing safer fleet choices.  
-  [The Dataset](https://github.com/ShemDennis/phase_1_project/blob/main/AviationData.csv)
-
-- **Engine Types**: This dataset categorizes the engine types involved in the incidents, such as Turbo Prop and Turbo Shaft engines. It helps in identifying which engine types are associated with higher or lower safety risks.  
-  [The Dataset](https://github.com/ShemDennis/phase_1_project/blob/main/AviationData.csv)
-
-- **Injury Severity**: This dataset captures the severity of injuries resulting from aircraft incidents, classified into categories such as Minor, Serious, and Fatal. Injury severity is a key metric for evaluating the overall impact of an incident.  
-  [The Dataset](https://github.com/ShemDennis/phase_1_project/blob/main/AviationData.csv)
-
-- **Weather Conditions**: This dataset highlights the weather conditions at the time of each incident, such as Instrument Meteorological Conditions (IMC) and Visual Meteorological Conditions (VMC). This helps in analyzing the role of weather in aircraft safety.  
-  [The Dataset](https://github.com/ShemDennis/phase_1_project/blob/main/AviationData.csv)
+The dataset includes key fields that represent critical aspects of aircraft incidents. Each column has been cleaned and prepared for analysis to ensure accurate results.
 
 ## Results
 
