@@ -39,7 +39,7 @@ Through analyzing these datasets, several key findings were uncovered:
 
 - **Weather impact**: Incidents that occurred under IMC conditions showed a higher rate of fatalities. This finding underscores the need for improved pilot training and better preparation for flights in challenging weather conditions.
 
-- **Full Results Dataset**: [Access the full results dataset here](https://github.com/ShemDennis/phase_1_project/blob/main/project.ipynb)
+- **Full Results Dataset**: [https://github.com/ShemDennis/phase_1_project/blob/5ba5a20f8e5809d882fa91ce95489b8911fa9509/project.ipynb)
 
 ## Recommendations
 
@@ -58,7 +58,7 @@ Based on the analysis, the following recommendations are provided to improve air
 To help communicate the findings and recommendations effectively, the following visual resources are available:
 
 - **Pdf Presentation**: This presentation provides a summary of the analysis, key insights, and recommendations. It can be used for stakeholder briefings or educational purposes.  
-  [Download the presentation](https://github.com/ShemDennis/phase_1_project/blob/main/project%20presentation.pdf)
+  [Download the presentation](https://github.com/ShemDennis/phase_1_project/blob/5ba5a20f8e5809d882fa91ce95489b8911fa9509/presentation.pdf)
 
 - **Tableau Dashboard**: An interactive Tableau dashboard allows users to explore the data and insights in more depth. The dashboard provides a visual representation of incident patterns, risk models, engine performance, and more.  
   [View the Tableau Dashboard](https://public.tableau.com/views/proj_17272944880330/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
