@@ -1,4 +1,5 @@
 # phase_1_project
+![image](https://github.com/user-attachments/assets/36a64a36-f3d0-4c65-94e1-3a5e41a4247c)
 
 This is a repo of my phase 1 project: Aircraft Incident Analysis and Recommendations  
 **Author**: Dennis Shem Limo O.  
